@@ -1,13 +1,10 @@
-Crimson
 Orange
 Blue
-Cyan
 Yellow
 Charcoal
-Khaki
-Coral
 Silver
-Fuchsia
 Purple
 Brown
 Red
+
+I just deleted the colors that i don't know
